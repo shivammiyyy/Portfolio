@@ -29,12 +29,12 @@ const TAB_DATA = [
     <div>
       <h3 className="text-xl font-semibold mb-2">Backend</h3>
       <ul className="list-disc list-inside space-y-1">
+        <li>Spring Boot/li>
         <li>Node.js</li>
         <li>Express.js</li>
         <li>REST APIs</li>
-        <li>Socket.IO</li>
         <li>WebRTC</li>
-        <li>JWT Authentication</li>
+        <li>Flask</li>
       </ul>
     </div>
 
@@ -66,6 +66,7 @@ const TAB_DATA = [
     <div>
       <h3 className="text-xl font-semibold mb-2">Languages</h3>
       <ul className="list-disc list-inside space-y-1">
+        <li>Java</li>
         <li>C++</li>
         <li>Python</li>
         <li>JavaScript</li>
