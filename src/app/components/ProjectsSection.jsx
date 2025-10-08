@@ -16,6 +16,23 @@ const projectsData = [
   },
   {
     id: 2,
+    title: "LinkerNet",
+    description: "Offline Communication application",
+    image: "https://github.com/shivammiyyy/LinkerNet/blob/main/resources/web.png",
+    tag: ["All","Other"],
+    gitUrl: "github.com/shivammiyyy/LinkerNet",
+  },
+  {
+    id: 2,
+    title: "E-Commerce Multivendor",
+    description: "Spring based E-Commerce Website",
+    image: "/images/projects/upload.png",
+    tag: ["All","Web"],
+    gitUrl: "https://github.com/shivammiyyy/Ecommerce-Multivendor",
+  },
+  
+  {
+    id: 3,
     title: "Analyzer",
     description: "Analyzing Stock-marker Prices",
     image: "/images/projects/2.png",
@@ -24,7 +41,7 @@ const projectsData = [
     previewUrl: "https://shimmering-medovik-298ee6.netlify.app/dashboard/IT/MSFT",
   },
   {
-    id: 3,
+    id: 4,
     title: "LoadVerify.AI",
     description: "Predicting Loan Eligible",
     image: "/images/projects/loan.png",
@@ -33,16 +50,24 @@ const projectsData = [
     previewUrl: "/",
   },
   {
-    id: 4,
+    id: 5,
     title: "Electronic Shop",
     description: "Ecommerce Website",
     image: "/images/projects/ec.png",
     tag: ["All","Web"],
     gitUrl: "https://github.com/shivammiyyy/Ecommerce",
-    previewUrl: "https://ecommerce-zeta-vert.vercel.app/",
+    previewUrl: "https://ecommerce-zeta-vert.vercel.app/"
   },
   {
-    id: 5,
+    id:7,
+    title: "MeetingPad",
+    description: "Spring based Real-Time communication application",
+    image: "",
+    tag: ["All","Web","Other"],
+    gitUrl: "https://github.com/shivammiyyy/MeetingPad"
+  }
+  {
+    id: 6,
     title: "Invoice Reader",
     description: "Reading Invoice using LLM",
     image: "/images/projects/inv.png",
@@ -51,7 +76,7 @@ const projectsData = [
     previewUrl: "/",
   },
   {
-    id: 5,
+    id: 7,
     title: "DeepFake Detection",
     description: "Machine Learning Project",
     image: "/images/projects/dp.png",
